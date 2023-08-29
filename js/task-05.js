@@ -1,6 +1,6 @@
 const input = document.querySelector('#name-input');
 
-const output = document.querySelector('#name-putput');
+const output = document.querySelector('#name-output');
 
 const changeOutput = event => {
     if (
